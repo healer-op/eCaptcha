@@ -9,4 +9,3 @@ The Person Need To Click of Correct Answer to Progess in Verification.\
 Right Now We Are Thing To Release With New Api Systems And Fully Launch In Market Use.\
 \
 ![img](https://cdn.discordapp.com/attachments/881041463834714122/882865855795458098/unknown.png) \
-nd 
