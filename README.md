@@ -1,5 +1,5 @@
 # eCaptcha
-✅ New Emoji Captcha For Website 🥳 [ Work In Progress ]👷‍♂️\
+✅ New Emoji Captcha For Website 🥳 [ Work In Progress ]👷‍♂️
 
 # Whats New.
 eCaptcha is A New Captcha verification system that uses emojis as a base to find out a real person.\
