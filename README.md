@@ -1,7 +1,7 @@
 # eCaptcha
 ✅ New Emoji Captcha For Website 🥳 [ Work In Progress ]👷‍♂️\
-\
-# Whats New.\
+
+# Whats New.
 eCaptcha is A New Captcha verification system that uses emojis as a base to find out a real person.\
 \
 To use the bot the command is !verify. It has a cooldown of 30 seconds (if the user fails the command or is successful)\
